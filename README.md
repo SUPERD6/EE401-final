@@ -204,5 +204,6 @@ Simulation Environment:
 - **GTKWave for waveform visualization**
 - **Visual Studio Code**
 
-Input machine codes are stored in:
+Input machine codes are stored in:memfile_bench2.hex
+
 
