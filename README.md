@@ -5,7 +5,7 @@ This repository contains a 5-stage pipelined processor implementation of the RIS
 This work is an extended version of the original single-cycle implementation provided by:
 
 👉 Original Single-Cycle Core:  
-https://github.com/Varunkumar0610/RISC-V-Single-Cycle-Core  
+[https://github.com/Varunkumar0610/RISC-V-Single-Cycle-Core  ](https://github.com/Varunkumar0610/RISC-V-32I-5-stage-Pipeline-Core)
 
 Based on the original design, this project further extends the processor with:
 
@@ -205,3 +205,4 @@ Simulation Environment:
 - **Visual Studio Code**
 
 Input machine codes are stored in:
+
